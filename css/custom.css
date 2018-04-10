@@ -321,7 +321,7 @@ nav a.nav-link:active, nav a.nav-link:focus {
 /******************************************************************************************************************/
 
 .jumbotron {
-    background: url(../img/hero.jpg) repeat-y;
+    background: url(../img/home.jpg) repeat-y;
     background-size: cover;
     background-color: #fff;
     position: relative;
@@ -642,7 +642,7 @@ nav a.nav-link:active, nav a.nav-link:focus {
 /******************************************************************************************************************/
 
 #hireme {
-    background: url(../img/hireme-bg.jpg) repeat-y;
+    background: url(../img/code.jpg) repeat-y;
     background-size: cover;
     background-color: #000;
     text-align: center;
